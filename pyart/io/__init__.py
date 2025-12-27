@@ -13,6 +13,7 @@ from .auto_read import read  # noqa
 from .cfradial import read_cfradial, write_cfradial  # noqa
 from .chl import read_chl  # noqa
 from .common import prepare_for_read  # noqa
+from .jrc import read_jrc # noqa
 from .grid_io import read_grid, write_grid  # noqa
 from .mdv_grid import read_grid_mdv, write_grid_mdv  # noqa
 from .mdv_radar import read_mdv  # noqa
